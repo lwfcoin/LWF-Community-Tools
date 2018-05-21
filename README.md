@@ -14,7 +14,7 @@ Users can submit their dpos tool links by logging an [issue](https://github.com/
 
 ## When will the Repo's be added
 
-Each month, the newest tools will be included in a monthly Github bounty programme for issues or pull requests on the main LWF repository.  Bounties will be awarded based on impact of the pull/issue logged/bug identified, new tools, upgrades to existing tools, api wrappers and documentation.
+Tools will be updated each week. Every month, new tools will be included in a monthly bounty programme (details to be provided in due course). Bounties will be awarded based on impact of the pull requests, Issues logged, bugs found, new tools, upgrades to existing tools, api wrappers and documentation updates.
 
 ## Community Repo's
 
@@ -34,7 +34,7 @@ Each month, the newest tools will be included in a monthly Github bounty program
 - [noah Automated Rebuilds by Faustbrian](https://github.com/faustbrian/noah)
 
 
-## Official Repo's:
+## Official Repo's
 - [node](https://github.com/lwfcoin/lwf-node/)
 - [explorer](https://github.com/lwfcoin/lwf-explorer/)
 - [api-documentation](https://github.com/lwfcoin/api-documentation)
