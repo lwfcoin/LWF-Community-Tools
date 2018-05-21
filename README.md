@@ -16,7 +16,7 @@ Users can submit their dpos tool links by logging an [issue](https://github.com/
 
 Each month, the newest tools will be included in a monthly Github bounty programme for issues or pull requests on the main LWF repository.  Bounties will be awarded based on impact of the pull/issue logged/bug identified, new tools, upgrades to existing tools, api wrappers and documentation.
 
-## Repo's
+## Community Repo's
 
 ### Alerts:
 - [dpos telegram bot by vekexasia](https://github.com/vekexasia/dpos-telegram-bot)
@@ -30,11 +30,11 @@ Each month, the newest tools will be included in a monthly Github bounty program
 - [automated snapshot by samual paulson](https://github.com/samuelpaulsun/lwf-snapshot)
 
 ### Other Tools:
-- [ark-snapshot by Gr33nDragon](https://github.com/Gr33nDrag0n69/Ark-Snapshot)
+- [Ark-snapshot by Gr33nDragon](https://github.com/Gr33nDrag0n69/Ark-Snapshot)
 - [Noah Automated Rebuilds by Faustbrian](https://www.mijncobb.nl/accessoires/bbq-kit-brikettenmandje/)
 
 
-### Official Repo's:
+## Official Repo's:
 - [node](https://github.com/lwfcoin/lwf-node/)
 - [explorer](https://github.com/lwfcoin/lwf-explorer/)
 
