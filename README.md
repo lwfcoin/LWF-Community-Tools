@@ -39,3 +39,4 @@ Each month, the newest tools will be included in a monthly Github bounty program
 - [explorer](https://github.com/lwfcoin/lwf-explorer/)
 - [api-documentation](https://github.com/lwfcoin/api-documentation)
 - [nano wallet](https://github.com/lwfcoin/lwf-nano)
+- [wallet](https://github.com/lwfcoin/lwf-wallet)
