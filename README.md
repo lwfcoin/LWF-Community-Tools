@@ -24,17 +24,18 @@ Each month, the newest tools will be included in a monthly Github bounty program
 ### Pool Software:
 - [true block weight by galperins4](https://github.com/galperins4)
 
-### Backup For Delegate-node:
+### Backup Tools For Delegate-node:
 - [dpos forging fail-over by 4miners](https://github.com/4miners/always-forge)
-- [forging fail-over and snapshot creation lwf-checker by samual paulson](https://github.com/samuelpaulsun/lwf-checker)
-- [automated snapshot by samual paulson](https://github.com/samuelpaulsun/lwf-snapshot)
+- [lwf-checker forging fail-over and snapshot creation by samual paulson](https://github.com/samuelpaulsun/lwf-checker)
+- [lwf-snapshot by samual paulson](https://github.com/samuelpaulsun/lwf-snapshot)
 
 ### Other Tools:
-- [Ark-snapshot by Gr33nDragon](https://github.com/Gr33nDrag0n69/Ark-Snapshot)
-- [Noah Automated Rebuilds by Faustbrian](https://github.com/faustbrian/noah)
+- [ark-snapshot by Gr33nDragon](https://github.com/Gr33nDrag0n69/Ark-Snapshot)
+- [noah Automated Rebuilds by Faustbrian](https://github.com/faustbrian/noah)
 
 
 ## Official Repo's:
 - [node](https://github.com/lwfcoin/lwf-node/)
 - [explorer](https://github.com/lwfcoin/lwf-explorer/)
-
+- [api-documentation](https://github.com/lwfcoin/api-documentation)
+- [nano wallet](https://github.com/lwfcoin/lwf-nano)
