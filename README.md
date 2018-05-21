@@ -31,7 +31,7 @@ Each month, the newest tools will be included in a monthly Github bounty program
 
 ### Other Tools:
 - [Ark-snapshot by Gr33nDragon](https://github.com/Gr33nDrag0n69/Ark-Snapshot)
-- [Noah Automated Rebuilds by Faustbrian](https://www.mijncobb.nl/accessoires/bbq-kit-brikettenmandje/)
+- [Noah Automated Rebuilds by Faustbrian](https://github.com/faustbrian/noah)
 
 
 ## Official Repo's:
