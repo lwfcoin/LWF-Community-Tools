@@ -11,6 +11,7 @@ One of the benefits of this setup is that LWF doesn’t host a fork of the repos
 ## Adding a Repo
 
 Users can submit their dpos tool links by logging an [issue](https://github.com/lwfcoin/LWF-Tommunity-Tools/issues/new/choose)
+, Make sure you first login
 
 ## When will the Repo's be added
 
