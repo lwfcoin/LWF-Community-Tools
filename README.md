@@ -32,6 +32,7 @@ Tools will be updated each week. Every month, new tools will be included in a mo
 ### Other Tools:
 - [ark-snapshot by Gr33nDragon](https://github.com/Gr33nDrag0n69/Ark-Snapshot)
 - [noah Automated Rebuilds by Faustbrian](https://github.com/faustbrian/noah)
+- [DPoS offline tools for Elixir by stefano g](https://github.com/lwfcoin/dpos-ex)
 
 
 ## Official Repo's
